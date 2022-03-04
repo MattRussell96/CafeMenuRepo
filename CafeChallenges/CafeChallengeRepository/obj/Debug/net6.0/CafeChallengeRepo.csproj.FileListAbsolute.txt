@@ -1,0 +1,12 @@
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\bin\Debug\net6.0\CafeChallengeRepo.deps.json
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\bin\Debug\net6.0\CafeChallengeRepo.dll
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\bin\Debug\net6.0\ref\CafeChallengeRepo.dll
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\bin\Debug\net6.0\CafeChallengeRepo.pdb
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\CafeChallengeRepo.csproj.AssemblyReference.cache
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\CafeChallengeRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\CafeChallengeRepo.AssemblyInfoInputs.cache
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\CafeChallengeRepo.AssemblyInfo.cs
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\CafeChallengeRepo.csproj.CoreCompileInputs.cache
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\CafeChallengeRepo.dll
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\ref\CafeChallengeRepo.dll
+C:\Users\mmr21\OneDrive\Documents\SD134ImmersionFT\C#_Challenges\CafeChallengesV3\CafeChallenges\CafeChallengeRepository\obj\Debug\net6.0\CafeChallengeRepo.pdb

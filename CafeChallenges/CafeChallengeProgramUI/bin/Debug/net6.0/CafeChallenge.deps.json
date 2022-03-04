@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CafeChallenge/1.0.0": {
+        "dependencies": {
+          "CafeChallengeRepo": "1.0.0"
+        },
+        "runtime": {
+          "CafeChallenge.dll": {}
+        }
+      },
+      "CafeChallengeRepo/1.0.0": {
+        "runtime": {
+          "CafeChallengeRepo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CafeChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CafeChallengeRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
